@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\QUOCDUY\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\QUOCDUY\\.nuget\\packages",
+      "D:\\Visual studio 2022\\ProgramFilesx86\\NuGetPackages"
+    ]
+  }
+}
