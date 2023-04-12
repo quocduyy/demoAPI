@@ -44,7 +44,7 @@ namespace Demo.Controllers
             return await _context.Products.ToListAsync();
         }
 
-        // GET: api/Products/5
+        // GET: api/Products/7
         [HttpGet("{id}")]
         public async Task<ActionResult<Products>> GetProducts(int id)
         {
